@@ -27,5 +27,5 @@ I used Python,Pillow, and path for digital art creation.
 
 
 
-![Concept Design](src/assets/designRef.png)
+![Concept Design](designRef.png)
   Gold and orange gradients give a metallic, festive look. A unifying sphere crowns the cup, while the CCJ Knights and BISU logos show school pride. The confetti background adds to the joyful, victorious mood.
